@@ -56,7 +56,7 @@ function tekiErabu(){
   }else if(x<3/4){
     kougeki = yoshii;
     teki="吉井";
-    pic = "yoshii.jpg";
+    pic = "gen.jpg";
   }else{
     kougeki = riou;
     teki = "りおう";
